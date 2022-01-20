@@ -5,11 +5,11 @@
         <h2 class="bg-text">{{product.bgtext}}</h2>
       </div>
       <div class="product-image-wrap">
-        <a href="http://www.insulationandroofingrios.com"><img :src="product.src" class="image" /> </a>
+        <img :src="product.src" class="image" /> 
       </div>
       <div class="product-detail">
         <h2>{{ product.title }}</h2>
-        <p>This is my web portfolio. It'll be in much better shape very SOON!!! STAY TUNED</p>
+        <p>Duchess is always watching you</p>
       </div>
     </div>
   </div>

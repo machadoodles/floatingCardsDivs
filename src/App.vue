@@ -22,23 +22,12 @@ export default {
     return {
       products: [
         {
-          title: 'Nike Air Max',
+          title: 'Watch your back',
           color: 'green',
-          bgtext: 'NIKE',
-          src: require('./assets/green-shoe.png')
+          bgtext: 'Duchess of L street',
+          src: require('./assets/doingTheRoar3.png')
         },
-        {
-          title: 'Nike flex',
-          color: 'blue',
-          bgtext: 'AIR',
-          src: require('./assets/blue-shoe.png')
-        },
-        {
-          title: 'Nike Roche Runs',
-          color: 'pink',
-          bgtext: 'MAX',
-          src: require('./assets/pink-shoe.png')
-        }
+        
       ]
     }
   },
