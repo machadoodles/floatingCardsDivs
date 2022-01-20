@@ -9,7 +9,7 @@
       </div>
       <div class="product-detail">
         <h2>{{ product.title }}</h2>
-        <p>Duchess is always watching you</p>
+        <p>Duchess is always watching</p>
       </div>
     </div>
   </div>
